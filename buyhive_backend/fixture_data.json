@@ -1,0 +1,1872 @@
+[
+  {
+    "model": "accounts.user",
+    "pk": 21,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt124$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Priya",
+      "last_name": "Sharma",
+      "email": "priya@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-11T09:00:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 22,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt125$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Arjun",
+      "last_name": "Patel",
+      "email": "arjun@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-12T11:30:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 23,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt126$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Sneha",
+      "last_name": "Gupta",
+      "email": "sneha@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-13T14:15:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 24,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt127$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Vikram",
+      "last_name": "Singh",
+      "email": "vikram@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-14T16:45:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 25,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt128$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Kavya",
+      "last_name": "Reddy",
+      "email": "kavya@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-15T12:20:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 26,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt129$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Raj",
+      "last_name": "Kumar",
+      "email": "raj@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-16T08:30:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 27,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt130$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Anisha",
+      "last_name": "Joshi",
+      "email": "anisha@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-17T10:15:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 28,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt131$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Deepak",
+      "last_name": "Agarwal",
+      "email": "deepak@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-18T13:45:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 29,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt132$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Meera",
+      "last_name": "Nair",
+      "email": "meera@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-19T15:30:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 30,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt133$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Rahul",
+      "last_name": "Verma",
+      "email": "rahul@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-20T09:20:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 31,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt134$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Pooja",
+      "last_name": "Bansal",
+      "email": "pooja@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-21T11:10:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 32,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt135$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Karan",
+      "last_name": "Malhotra",
+      "email": "karan@example.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-22T14:25:00Z",
+      "is_vendor": false,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 33,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt136$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Amit",
+      "last_name": "Desai",
+      "email": "amit@vendor.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-07-15T10:00:00Z",
+      "is_vendor": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 34,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt137$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Sanjay",
+      "last_name": "Kapoor",
+      "email": "sanjay@vendor.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-07-20T11:30:00Z",
+      "is_vendor": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 35,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt138$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Ravi",
+      "last_name": "Goyal",
+      "email": "ravi@vendor.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-07-25T09:15:00Z",
+      "is_vendor": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 36,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt139$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Manish",
+      "last_name": "Jain",
+      "email": "manish@vendor.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-01T13:45:00Z",
+      "is_vendor": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.user",
+    "pk": 37,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$randomsalt140$hashedpassword",
+      "last_login": null,
+      "is_superuser": false,
+      "first_name": "Suresh",
+      "last_name": "Yadav",
+      "email": "suresh@vendor.com",
+      "is_staff": false,
+      "is_active": true,
+      "date_joined": "2024-08-05T16:20:00Z",
+      "is_vendor": true,
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 16,
+    "fields": {
+      "user": 21,
+      "profile_picture": "profile_pics/priya_profile.jpg",
+      "phone_number": "+91-9876543211",
+      "bio": "Interior design enthusiast who loves creating beautiful spaces.",
+      "created_at": "2024-08-11T09:30:00Z",
+      "updated_at": "2024-08-11T09:30:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 17,
+    "fields": {
+      "user": 22,
+      "profile_picture": "profile_pics/arjun_profile.jpg",
+      "phone_number": "+91-9876543212",
+      "bio": "Love modern furniture and minimalist home decor.",
+      "created_at": "2024-08-12T12:00:00Z",
+      "updated_at": "2024-08-12T12:00:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 18,
+    "fields": {
+      "user": 23,
+      "profile_picture": "profile_pics/sneha_profile.jpg",
+      "phone_number": "+91-9876543213",
+      "bio": "Creating cozy homes with beautiful furniture pieces.",
+      "created_at": "2024-08-13T14:45:00Z",
+      "updated_at": "2024-08-13T14:45:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 19,
+    "fields": {
+      "user": 24,
+      "profile_picture": "profile_pics/vikram_profile.jpg",
+      "phone_number": "+91-9876543214",
+      "bio": "Quality furniture collector and home improvement enthusiast.",
+      "created_at": "2024-08-14T17:15:00Z",
+      "updated_at": "2024-08-14T17:15:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 20,
+    "fields": {
+      "user": 25,
+      "profile_picture": "profile_pics/kavya_profile.jpg",
+      "phone_number": "+91-9876543215",
+      "bio": "Passionate about creating stylish and functional living spaces.",
+      "created_at": "2024-08-15T12:50:00Z",
+      "updated_at": "2024-08-15T12:50:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 21,
+    "fields": {
+      "user": 26,
+      "profile_picture": "profile_pics/raj_profile.jpg",
+      "phone_number": "+91-9876543216",
+      "bio": "Home decor enthusiast with a taste for classic designs.",
+      "created_at": "2024-08-16T09:00:00Z",
+      "updated_at": "2024-08-16T09:00:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 22,
+    "fields": {
+      "user": 27,
+      "profile_picture": "profile_pics/anisha_profile.jpg",
+      "phone_number": "+91-9876543217",
+      "bio": "Love transforming spaces with beautiful furniture and decor.",
+      "created_at": "2024-08-17T10:45:00Z",
+      "updated_at": "2024-08-17T10:45:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 23,
+    "fields": {
+      "user": 28,
+      "profile_picture": "profile_pics/deepak_profile.jpg",
+      "phone_number": "+91-9876543218",
+      "bio": "Quality furniture seeker for comfortable living.",
+      "created_at": "2024-08-18T14:15:00Z",
+      "updated_at": "2024-08-18T14:15:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 24,
+    "fields": {
+      "user": 29,
+      "profile_picture": "profile_pics/meera_profile.jpg",
+      "phone_number": "+91-9876543219",
+      "bio": "Creating beautiful homes with carefully chosen furniture pieces.",
+      "created_at": "2024-08-19T16:00:00Z",
+      "updated_at": "2024-08-19T16:00:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 25,
+    "fields": {
+      "user": 30,
+      "profile_picture": "profile_pics/rahul_profile.jpg",
+      "phone_number": "+91-9876543220",
+      "bio": "Modern furniture lover with an eye for design.",
+      "created_at": "2024-08-20T09:50:00Z",
+      "updated_at": "2024-08-20T09:50:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 26,
+    "fields": {
+      "user": 31,
+      "profile_picture": "profile_pics/pooja_profile.jpg",
+      "phone_number": "+91-9876543221",
+      "bio": "Home styling enthusiast and furniture connoisseur.",
+      "created_at": "2024-08-21T11:40:00Z",
+      "updated_at": "2024-08-21T11:40:00Z"
+    }
+  },
+  {
+    "model": "accounts.userprofile",
+    "pk": 27,
+    "fields": {
+      "user": 32,
+      "profile_picture": "profile_pics/karan_profile.jpg",
+      "phone_number": "+91-9876543222",
+      "bio": "Contemporary design lover creating stylish living spaces.",
+      "created_at": "2024-08-22T14:55:00Z",
+      "updated_at": "2024-08-22T14:55:00Z"
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 16,
+    "fields": {
+      "user": 21,
+      "street_address": "456 Brigade Road",
+      "apartment_address": "Flat 3C",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip_code": "560025",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 17,
+    "fields": {
+      "user": 22,
+      "street_address": "789 SG Highway",
+      "apartment_address": "Tower B, 12th Floor",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip_code": "380015",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 18,
+    "fields": {
+      "user": 23,
+      "street_address": "321 Park Street",
+      "apartment_address": "Apt 7A",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "zip_code": "700016",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 19,
+    "fields": {
+      "user": 24,
+      "street_address": "654 Civil Lines",
+      "apartment_address": "House No. 15",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip_code": "110054",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 20,
+    "fields": {
+      "user": 25,
+      "street_address": "987 Banjara Hills",
+      "apartment_address": "Villa 23",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip_code": "500034",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 21,
+    "fields": {
+      "user": 26,
+      "street_address": "147 Marine Drive",
+      "apartment_address": "12th Floor",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip_code": "400020",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 22,
+    "fields": {
+      "user": 27,
+      "street_address": "258 Residency Road",
+      "apartment_address": "Flat 8B",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip_code": "560025",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 23,
+    "fields": {
+      "user": 28,
+      "street_address": "369 Sector 17",
+      "apartment_address": "House 4D",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "zip_code": "160017",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 24,
+    "fields": {
+      "user": 29,
+      "street_address": "741 MG Road",
+      "apartment_address": "Tower A, 5th Floor",
+      "city": "Kochi",
+      "state": "Kerala",
+      "zip_code": "682011",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 25,
+    "fields": {
+      "user": 30,
+      "street_address": "852 Model Town",
+      "apartment_address": "Plot 16",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zip_code": "226016",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 26,
+    "fields": {
+      "user": 31,
+      "street_address": "963 Rajouri Garden",
+      "apartment_address": "Flat 6C",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip_code": "110027",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "accounts.address",
+    "pk": 27,
+    "fields": {
+      "user": 32,
+      "street_address": "753 Linking Road",
+      "apartment_address": "9th Floor",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip_code": "400050",
+      "country": "India",
+      "address_type": "shipping",
+      "is_default": true
+    }
+  },
+  {
+    "model": "vendors.vendorprofile",
+    "pk": 7,
+    "fields": {
+      "user": 33,
+      "business_name": "Luxuria Furniture Studio",
+      "description": "Handcrafted luxury furniture pieces that blend traditional artistry with contemporary design. Specializing in premium wood furniture and bespoke home decor solutions.",
+      "business_logo": "vendor_logos/luxuria_logo.jpg",
+      "tax_id": "GST234567890",
+      "business_license": "vendor_licenses/luxuria_license.pdf",
+      "is_approved": true,
+      "rejection_reason": "",
+      "created_at": "2024-07-15T10:30:00Z",
+      "updated_at": "2024-07-15T10:30:00Z"
+    }
+  },
+  {
+    "model": "vendors.vendorprofile",
+    "pk": 8,
+    "fields": {
+      "user": 34,
+      "business_name": "Royal Living Collections",
+      "description": "Curated collection of premium home furnishings and decor. From elegant sofas to exquisite dining sets, we bring royal comfort to your living spaces.",
+      "business_logo": "vendor_logos/royal_living_logo.jpg",
+      "tax_id": "GST345678901",
+      "business_license": "vendor_licenses/royal_living_license.pdf",
+      "is_approved": true,
+      "rejection_reason": "",
+      "created_at": "2024-07-20T11:00:00Z",
+      "updated_at": "2024-07-20T11:00:00Z"
+    }
+  },
+  {
+    "model": "vendors.vendorprofile",
+    "pk": 9,
+    "fields": {
+      "user": 35,
+      "business_name": "Modern Space Interiors",
+      "description": "Contemporary furniture and lighting solutions for modern homes. Specializing in sleek designs and space-efficient furniture for urban living.",
+      "business_logo": "vendor_logos/modern_space_logo.jpg",
+      "tax_id": "GST456789012",
+      "business_license": "vendor_licenses/modern_space_license.pdf",
+      "is_approved": true,
+      "rejection_reason": "",
+      "created_at": "2024-07-25T09:45:00Z",
+      "updated_at": "2024-07-25T09:45:00Z"
+    }
+  },
+  {
+    "model": "vendors.vendorprofile",
+    "pk": 10,
+    "fields": {
+      "user": 36,
+      "business_name": "Heritage Home Furnishings",
+      "description": "Traditional and vintage-inspired furniture pieces that tell a story. Bringing timeless elegance and heritage craftsmanship to contemporary homes.",
+      "business_logo": "vendor_logos/heritage_home_logo.jpg",
+      "tax_id": "GST567890123",
+      "business_license": "vendor_licenses/heritage_home_license.pdf",
+      "is_approved": true,
+      "rejection_reason": "",
+      "created_at": "2024-08-01T14:15:00Z",
+      "updated_at": "2024-08-01T14:15:00Z"
+    }
+  },
+  {
+    "model": "vendors.vendorprofile",
+    "pk": 11,
+    "fields": {
+      "user": 37,
+      "business_name": "Zenith Outdoor Living",
+      "description": "Premium outdoor furniture and garden decor solutions. Creating beautiful outdoor spaces with weather-resistant and stylish furniture pieces.",
+      "business_logo": "vendor_logos/zenith_outdoor_logo.jpg",
+      "tax_id": "GST678901234",
+      "business_license": "vendor_licenses/zenith_outdoor_license.pdf",
+      "is_approved": true,
+      "rejection_reason": "",
+      "created_at": "2024-08-05T16:50:00Z",
+      "updated_at": "2024-08-05T16:50:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "vendor": 7,
+      "category": 2,
+      "title": "Solid Teak Wood King Size Bed",
+      "slug": "solid-teak-wood-king-size-bed-luxuria",
+      "description": "Handcrafted king size bed made from premium teak wood with intricate carving details. Features a sturdy frame and elegant headboard design.",
+      "base_price": "75999.00",
+      "is_active": true,
+      "featured": true,
+      "created_at": "2024-07-16T10:00:00Z",
+      "updated_at": "2024-07-16T10:00:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "vendor": 7,
+      "category": 10,
+      "title": "Mahogany Wood Dresser with Mirror",
+      "slug": "mahogany-wood-dresser-mirror-luxuria",
+      "description": "Elegant mahogany wood dresser with 6 spacious drawers and a matching mirror. Perfect for bedroom storage and organization.",
+      "base_price": "45999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-16T11:30:00Z",
+      "updated_at": "2024-07-16T11:30:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "vendor": 8,
+      "category": 6,
+      "title": "Royal Velvet Chesterfield Sofa",
+      "slug": "royal-velvet-chesterfield-sofa-collections",
+      "description": "Luxurious Chesterfield sofa upholstered in premium velvet fabric with button tufting and rolled arms. A statement piece for elegant living rooms.",
+      "base_price": "125999.00",
+      "is_active": true,
+      "featured": true,
+      "created_at": "2024-07-21T09:00:00Z",
+      "updated_at": "2024-07-21T09:00:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "vendor": 8,
+      "category": 3,
+      "title": "6-Seater Dining Table with Chairs",
+      "slug": "6-seater-dining-table-chairs-royal",
+      "description": "Solid wood dining table set with 6 matching chairs. Features a rich walnut finish and comfortable upholstered seats.",
+      "base_price": "85999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-21T14:20:00Z",
+      "updated_at": "2024-07-21T14:20:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "vendor": 8,
+      "category": 7,
+      "title": "Premium Glass Top Coffee Table",
+      "slug": "premium-glass-top-coffee-table-royal",
+      "description": "Modern glass top coffee table with chrome legs. Adds a contemporary touch to any living room setup.",
+      "base_price": "25999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-22T16:45:00Z",
+      "updated_at": "2024-07-22T16:45:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "vendor": 9,
+      "category": 8,
+      "title": "Modern LED Ceiling Light",
+      "slug": "modern-led-ceiling-light-space",
+      "description": "Sleek LED ceiling light with adjustable brightness and warm white illumination. Perfect for contemporary interiors.",
+      "base_price": "12999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-26T11:15:00Z",
+      "updated_at": "2024-07-26T11:15:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+      "vendor": 9,
+      "category": 1,
+      "title": "Minimalist TV Unit",
+      "slug": "minimalist-tv-unit-modern-space",
+      "description": "Clean-lined TV unit with open shelves and cable management. Designed for modern living rooms with a minimalist aesthetic.",
+      "base_price": "35999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-26T13:30:00Z",
+      "updated_at": "2024-07-26T13:30:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+      "vendor": 9,
+      "category": 6,
+      "title": "Ergonomic Office Chair",
+      "slug": "ergonomic-office-chair-modern",
+      "description": "Comfortable ergonomic office chair with lumbar support and adjustable height. Perfect for home office setups.",
+      "base_price": "18999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-27T10:45:00Z",
+      "updated_at": "2024-07-27T10:45:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+      "vendor": 10,
+      "category": 2,
+      "title": "Vintage Style Wooden Wardrobe",
+      "slug": "vintage-wooden-wardrobe-heritage",
+      "description": "Classic wooden wardrobe with vintage styling and ample storage space. Features carved details and antique brass handles.",
+      "base_price": "65999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-02T09:20:00Z",
+      "updated_at": "2024-08-02T09:20:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+      "vendor": 10,
+      "category": 3,
+      "title": "Rustic Kitchen Island",
+      "slug": "rustic-kitchen-island-heritage",
+      "description": "Rustic kitchen island with butcher block top and storage cabinets. Adds functionality and charm to any kitchen.",
+      "base_price": "55999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-02T15:10:00Z",
+      "updated_at": "2024-08-02T15:10:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+      "vendor": 10,
+      "category": 8,
+      "title": "Vintage Table Lamp Set",
+      "slug": "vintage-table-lamp-set-heritage",
+      "description": "Set of 2 vintage-style table lamps with fabric shades. Perfect for creating ambient lighting in bedrooms or living areas.",
+      "base_price": "8999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-03T12:25:00Z",
+      "updated_at": "2024-08-03T12:25:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+      "vendor": 11,
+      "category": 5,
+      "title": "Teak Outdoor Dining Set",
+      "slug": "teak-outdoor-dining-set-zenith",
+      "description": "Weather-resistant teak outdoor dining set with table and 4 chairs. Perfect for patio and garden dining experiences.",
+      "base_price": "95999.00",
+      "is_active": true,
+      "featured": true,
+      "created_at": "2024-08-06T10:30:00Z",
+      "updated_at": "2024-08-06T10:30:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 28,
+    "fields": {
+      "vendor": 11,
+      "category": 5,
+      "title": "Rattan Outdoor Lounge Set",
+      "slug": "rattan-outdoor-lounge-set-zenith",
+      "description": "Comfortable rattan lounge set with weather-resistant cushions. Includes sofa, armchairs, and coffee table for outdoor relaxation.",
+      "base_price": "75999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-06T14:15:00Z",
+      "updated_at": "2024-08-06T14:15:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 29,
+    "fields": {
+      "vendor": 7,
+      "category": 4,
+      "title": "Bamboo Bathroom Vanity",
+      "slug": "bamboo-bathroom-vanity-luxuria",
+      "description": "Eco-friendly bamboo bathroom vanity with marble countertop and integrated sink. Modern design with sustainable materials.",
+      "base_price": "42999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-17T16:40:00Z",
+      "updated_at": "2024-07-17T16:40:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+      "vendor": 8,
+      "category": 9,
+      "title": "Memory Foam Mattress Queen Size",
+      "slug": "memory-foam-mattress-queen-royal",
+      "description": "Premium memory foam mattress with temperature regulation and pressure relief. Ensures comfortable sleep with superior support.",
+      "base_price": "45999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-23T11:50:00Z",
+      "updated_at": "2024-07-23T11:50:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+      "vendor": 9,
+      "category": 1,
+      "title": "Modular Bookshelf Unit",
+      "slug": "modular-bookshelf-unit-modern",
+      "description": "Versatile modular bookshelf system that can be configured in multiple ways. Perfect for organizing books and displaying decor items.",
+      "base_price": "28999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-28T09:35:00Z",
+      "updated_at": "2024-07-28T09:35:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+      "vendor": 10,
+      "category": 7,
+      "title": "Antique Wooden Coffee Table",
+      "slug": "antique-wooden-coffee-table-heritage",
+      "description": "Beautifully restored antique wooden coffee table with intricate carvings. A unique centerpiece for traditional living rooms.",
+      "base_price": "38999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-04T13:20:00Z",
+      "updated_at": "2024-08-04T13:20:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 33,
+    "fields": {
+      "vendor": 11,
+      "category": 5,
+      "title": "Garden Swing with Canopy",
+      "slug": "garden-swing-canopy-zenith",
+      "description": "Relaxing garden swing with weather-resistant canopy and comfortable cushions. Perfect for outdoor leisure and relaxation.",
+      "base_price": "52999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-07T15:45:00Z",
+      "updated_at": "2024-08-07T15:45:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 34,
+    "fields": {
+      "vendor": 7,
+      "category": 3,
+      "title": "Marble Top Bar Counter",
+      "slug": "marble-top-bar-counter-luxuria",
+      "description": "Elegant bar counter with genuine marble top and wooden base. Includes storage shelves for bottles and glassware.",
+      "base_price": "68999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-18T14:30:00Z",
+      "updated_at": "2024-07-18T14:30:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 35,
+    "fields": {
+      "vendor": 8,
+      "category": 4,
+      "title": "Luxury Spa Mirror with Lights",
+      "slug": "luxury-spa-mirror-lights-royal",
+      "description": "Premium spa-style mirror with LED lighting and anti-fog feature. Perfect for modern bathroom designs and daily grooming.",
+      "base_price": "15999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-24T17:15:00Z",
+      "updated_at": "2024-07-24T17:15:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 36,
+    "fields": {
+      "vendor": 9,
+      "category": 8,
+      "title": "Smart Home Pendant Lights",
+      "slug": "smart-home-pendant-lights-modern",
+      "description": "WiFi-enabled smart pendant lights with app control and color changing features. Modern lighting solution for connected homes.",
+      "base_price": "22999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-29T12:00:00Z",
+      "updated_at": "2024-07-29T12:00:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 37,
+    "fields": {
+      "vendor": 10,
+      "category": 6,
+      "title": "Victorian Style Armchair",
+      "slug": "victorian-style-armchair-heritage",
+      "description": "Luxurious Victorian-style armchair with rich velvet upholstery and wooden carved legs. A perfect statement piece for classic interiors.",
+      "base_price": "48999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-08-05T11:40:00Z",
+      "updated_at": "2024-08-05T11:40:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 38,
+    "fields": {
+      "vendor": 11,
+      "category": 5,
+      "title": "Outdoor Fire Pit Table",
+      "slug": "outdoor-fire-pit-table-zenith",
+      "description": "Multi-functional outdoor fire pit table with safety glass surround. Creates a cozy atmosphere for outdoor gatherings and entertainment.",
+      "base_price": "85999.00",
+      "is_active": true,
+      "featured": true,
+      "created_at": "2024-08-08T16:20:00Z",
+      "updated_at": "2024-08-08T16:20:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 39,
+    "fields": {
+      "vendor": 7,
+      "category": 10,
+      "title": "Walk-in Closet Organization System",
+      "slug": "walk-in-closet-organization-luxuria",
+      "description": "Complete walk-in closet organization system with adjustable shelves, hanging rods, and drawer units. Maximizes storage efficiency.",
+      "base_price": "125999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-19T10:15:00Z",
+      "updated_at": "2024-07-19T10:15:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 40,
+    "fields": {
+      "vendor": 8,
+      "category": 9,
+      "title": "Adjustable Bed Base with Massage",
+      "slug": "adjustable-bed-base-massage-royal",
+      "description": "Electric adjustable bed base with built-in massage function and USB charging ports. Ultimate comfort for modern bedrooms.",
+      "base_price": "95999.00",
+      "is_active": true,
+      "featured": false,
+      "created_at": "2024-07-25T13:45:00Z",
+      "updated_at": "2024-07-25T13:45:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 16,
+    "fields": {
+      "product": 16,
+      "name": "Natural Finish",
+      "sku": "LUX-TKBED-001-NAT",
+      "price_modifier": "0.00",
+      "stock": 3,
+      "is_active": true,
+      "created_at": "2024-07-16T10:30:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 17,
+    "fields": {
+      "product": 16,
+      "name": "Dark Walnut Finish",
+      "sku": "LUX-TKBED-001-DW",
+      "price_modifier": "5000.00",
+      "stock": 2,
+      "is_active": true,
+      "created_at": "2024-07-16T10:35:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 18,
+    "fields": {
+      "product": 17,
+      "name": "Standard Size",
+      "sku": "LUX-MHDRS-001-STD",
+      "price_modifier": "0.00",
+      "stock": 4,
+      "is_active": true,
+      "created_at": "2024-07-16T12:00:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 19,
+    "fields": {
+      "product": 18,
+      "name": "Royal Blue Velvet",
+      "sku": "ROY-CHES-001-RB",
+      "price_modifier": "0.00",
+      "stock": 2,
+      "is_active": true,
+      "created_at": "2024-07-21T09:30:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 20,
+    "fields": {
+      "product": 18,
+      "name": "Emerald Green Velvet",
+      "sku": "ROY-CHES-001-EG",
+      "price_modifier": "8000.00",
+      "stock": 1,
+      "is_active": true,
+      "created_at": "2024-07-21T09:35:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 21,
+    "fields": {
+      "product": 19,
+      "name": "Walnut Finish",
+      "sku": "ROY-DINT-001-WAL",
+      "price_modifier": "0.00",
+      "stock": 3,
+      "is_active": true,
+      "created_at": "2024-07-21T14:50:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 22,
+    "fields": {
+      "product": 20,
+      "name": "Chrome Legs",
+      "sku": "ROY-GLCT-001-CHR",
+      "price_modifier": "0.00",
+      "stock": 6,
+      "is_active": true,
+      "created_at": "2024-07-22T17:15:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 23,
+    "fields": {
+      "product": 21,
+      "name": "Warm White 3000K",
+      "sku": "MOD-LEDCL-001-WW",
+      "price_modifier": "0.00",
+      "stock": 10,
+      "is_active": true,
+      "created_at": "2024-07-26T11:45:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 24,
+    "fields": {
+      "product": 22,
+      "name": "White Finish",
+      "sku": "MOD-TVUNT-001-WHT",
+      "price_modifier": "0.00",
+      "stock": 5,
+      "is_active": true,
+      "created_at": "2024-07-26T14:00:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 25,
+    "fields": {
+      "product": 23,
+      "name": "Black Frame",
+      "sku": "MOD-ERGCH-001-BLK",
+      "price_modifier": "0.00",
+      "stock": 8,
+      "is_active": true,
+      "created_at": "2024-07-27T11:15:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 26,
+    "fields": {
+      "product": 24,
+      "name": "3-Door Wardrobe",
+      "sku": "HER-VINWR-001-3DR",
+      "price_modifier": "0.00",
+      "stock": 2,
+      "is_active": true,
+      "created_at": "2024-08-02T09:50:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 27,
+    "fields": {
+      "product": 25,
+      "name": "Natural Wood",
+      "sku": "HER-KITIL-001-NAT",
+      "price_modifier": "0.00",
+      "stock": 3,
+      "is_active": true,
+      "created_at": "2024-08-02T15:40:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 28,
+    "fields": {
+      "product": 26,
+      "name": "Beige Shade Set",
+      "sku": "HER-VINLP-001-BGS",
+      "price_modifier": "0.00",
+      "stock": 12,
+      "is_active": true,
+      "created_at": "2024-08-03T12:55:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 29,
+    "fields": {
+      "product": 27,
+      "name": "5-Piece Set",
+      "sku": "ZEN-TKDIN-001-5PC",
+      "price_modifier": "0.00",
+      "stock": 2,
+      "is_active": true,
+      "created_at": "2024-08-06T11:00:00Z"
+    }
+  },
+  {
+    "model": "products.productvariant",
+    "pk": 30,
+    "fields": {
+      "product": 28,
+      "name": "Brown Cushions",
+      "sku": "ZEN-RATLG-001-BRC",
+      "price_modifier": "0.00",
+      "stock": 1,
+      "is_active": true,
+      "created_at": "2024-08-06T14:45:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 11,
+    "fields": {
+      "customer": 21,
+      "vendor": 7,
+      "order_id": "550e8400-e29b-41d4-a716-446655440002",
+      "total_amount": "75999.00",
+      "status": "delivered",
+      "shipping_address_text": "Priya Sharma, 456 Brigade Road, Flat 3C, Bangalore, Karnataka 560025",
+      "payment_method": "UPI",
+      "payment_status": "completed",
+      "transaction_id": "UPI123456790",
+      "tracking_number": "TRK001234568",
+      "estimated_delivery": "2024-08-20",
+      "created_at": "2024-08-12T10:30:00Z",
+      "updated_at": "2024-08-20T15:00:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 12,
+    "fields": {
+      "customer": 22,
+      "vendor": 8,
+      "order_id": "550e8400-e29b-41d4-a716-446655440003",
+      "total_amount": "133999.00",
+      "status": "shipped",
+      "shipping_address_text": "Arjun Patel, 789 SG Highway, Tower B, 12th Floor, Ahmedabad, Gujarat 380015",
+      "payment_method": "Debit Card",
+      "payment_status": "completed",
+      "transaction_id": "DC123456791",
+      "tracking_number": "TRK001234569",
+      "estimated_delivery": "2024-08-25",
+      "created_at": "2024-08-13T14:20:00Z",
+      "updated_at": "2024-08-23T12:00:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 13,
+    "fields": {
+      "customer": 23,
+      "vendor": 8,
+      "order_id": "550e8400-e29b-41d4-a716-446655440004",
+      "total_amount": "85999.00",
+      "status": "processing",
+      "shipping_address_text": "Sneha Gupta, 321 Park Street, Apt 7A, Kolkata, West Bengal 700016",
+      "payment_method": "Net Banking",
+      "payment_status": "completed",
+      "transaction_id": "NB123456792",
+      "tracking_number": "",
+      "estimated_delivery": "2024-08-28",
+      "created_at": "2024-08-14T16:45:00Z",
+      "updated_at": "2024-08-22T10:30:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 14,
+    "fields": {
+      "customer": 24,
+      "vendor": 9,
+      "order_id": "550e8400-e29b-41d4-a716-446655440005",
+      "total_amount": "25999.00",
+      "status": "delivered",
+      "shipping_address_text": "Vikram Singh, 654 Civil Lines, House No. 15, Delhi, Delhi 110054",
+      "payment_method": "Credit Card",
+      "payment_status": "completed",
+      "transaction_id": "CC123456793",
+      "tracking_number": "TRK001234570",
+      "estimated_delivery": "2024-08-22",
+      "created_at": "2024-08-15T09:15:00Z",
+      "updated_at": "2024-08-22T16:30:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 15,
+    "fields": {
+      "customer": 25,
+      "vendor": 9,
+      "order_id": "550e8400-e29b-41d4-a716-446655440006",
+      "total_amount": "54998.00",
+      "status": "delivered",
+      "shipping_address_text": "Kavya Reddy, 987 Banjara Hills, Villa 23, Hyderabad, Telangana 500034",
+      "payment_method": "UPI",
+      "payment_status": "completed",
+      "transaction_id": "UPI123456794",
+      "tracking_number": "TRK001234571",
+      "estimated_delivery": "2024-08-24",
+      "created_at": "2024-08-16T11:40:00Z",
+      "updated_at": "2024-08-24T14:20:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 16,
+    "fields": {
+      "customer": 26,
+      "vendor": 10,
+      "order_id": "550e8400-e29b-41d4-a716-446655440007",
+      "total_amount": "65999.00",
+      "status": "processing",
+      "shipping_address_text": "Raj Kumar, 147 Marine Drive, 12th Floor, Mumbai, Maharashtra 400020",
+      "payment_method": "Credit Card",
+      "payment_status": "completed",
+      "transaction_id": "CC123456795",
+      "tracking_number": "",
+      "estimated_delivery": "2024-08-30",
+      "created_at": "2024-08-17T13:25:00Z",
+      "updated_at": "2024-08-23T09:15:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 17,
+    "fields": {
+      "customer": 27,
+      "vendor": 10,
+      "order_id": "550e8400-e29b-41d4-a716-446655440008",
+      "total_amount": "8999.00",
+      "status": "delivered",
+      "shipping_address_text": "Anisha Joshi, 258 Residency Road, Flat 8B, Bangalore, Karnataka 560025",
+      "payment_method": "Debit Card",
+      "payment_status": "completed",
+      "transaction_id": "DC123456796",
+      "tracking_number": "TRK001234572",
+      "estimated_delivery": "2024-08-25",
+      "created_at": "2024-08-18T15:10:00Z",
+      "updated_at": "2024-08-25T11:45:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 18,
+    "fields": {
+      "customer": 28,
+      "vendor": 11,
+      "order_id": "550e8400-e29b-41d4-a716-446655440009",
+      "total_amount": "95999.00",
+      "status": "shipped",
+      "shipping_address_text": "Deepak Agarwal, 369 Sector 17, House 4D, Chandigarh, Chandigarh 160017",
+      "payment_method": "Net Banking",
+      "payment_status": "completed",
+      "transaction_id": "NB123456797",
+      "tracking_number": "TRK001234573",
+      "estimated_delivery": "2024-08-27",
+      "created_at": "2024-08-19T12:30:00Z",
+      "updated_at": "2024-08-24T13:20:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 19,
+    "fields": {
+      "customer": 29,
+      "vendor": 11,
+      "order_id": "550e8400-e29b-41d4-a716-446655440010",
+      "total_amount": "52999.00",
+      "status": "processing",
+      "shipping_address_text": "Meera Nair, 741 MG Road, Tower A, 5th Floor, Kochi, Kerala 682011",
+      "payment_method": "UPI",
+      "payment_status": "completed",
+      "transaction_id": "UPI123456798",
+      "tracking_number": "",
+      "estimated_delivery": "2024-08-29",
+      "created_at": "2024-08-20T14:15:00Z",
+      "updated_at": "2024-08-23T16:30:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 20,
+    "fields": {
+      "customer": 30,
+      "vendor": 7,
+      "order_id": "550e8400-e29b-41d4-a716-446655440011",
+      "total_amount": "42999.00",
+      "status": "delivered",
+      "shipping_address_text": "Rahul Verma, 852 Model Town, Plot 16, Lucknow, Uttar Pradesh 226016",
+      "payment_method": "Credit Card",
+      "payment_status": "completed",
+      "transaction_id": "CC123456799",
+      "tracking_number": "TRK001234574",
+      "estimated_delivery": "2024-08-26",
+      "created_at": "2024-08-21T10:20:00Z",
+      "updated_at": "2024-08-26T15:10:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 21,
+    "fields": {
+      "customer": 31,
+      "vendor": 8,
+      "order_id": "550e8400-e29b-41d4-a716-446655440012",
+      "total_amount": "45999.00",
+      "status": "shipped",
+      "shipping_address_text": "Pooja Bansal, 963 Rajouri Garden, Flat 6C, New Delhi, Delhi 110027",
+      "payment_method": "Debit Card",
+      "payment_status": "completed",
+      "transaction_id": "DC123456800",
+      "tracking_number": "TRK001234575",
+      "estimated_delivery": "2024-08-28",
+      "created_at": "2024-08-22T16:45:00Z",
+      "updated_at": "2024-08-24T11:30:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 22,
+    "fields": {
+      "customer": 32,
+      "vendor": 9,
+      "order_id": "550e8400-e29b-41d4-a716-446655440013",
+      "total_amount": "28999.00",
+      "status": "processing",
+      "shipping_address_text": "Karan Malhotra, 753 Linking Road, 9th Floor, Mumbai, Maharashtra 400050",
+      "payment_method": "Net Banking",
+      "payment_status": "completed",
+      "transaction_id": "NB123456801",
+      "tracking_number": "",
+      "estimated_delivery": "2024-08-31",
+      "created_at": "2024-08-23T09:30:00Z",
+      "updated_at": "2024-08-24T14:45:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 23,
+    "fields": {
+      "customer": 21,
+      "vendor": 9,
+      "order_id": "550e8400-e29b-41d4-a716-446655440014",
+      "total_amount": "12999.00",
+      "status": "delivered",
+      "shipping_address_text": "Priya Sharma, 456 Brigade Road, Flat 3C, Bangalore, Karnataka 560025",
+      "payment_method": "UPI",
+      "payment_status": "completed",
+      "transaction_id": "UPI123456802",
+      "tracking_number": "TRK001234576",
+      "estimated_delivery": "2024-08-27",
+      "created_at": "2024-08-24T11:20:00Z",
+      "updated_at": "2024-08-27T13:15:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 24,
+    "fields": {
+      "customer": 23,
+      "vendor": 10,
+      "order_id": "550e8400-e29b-41d4-a716-446655440015",
+      "total_amount": "38999.00",
+      "status": "shipped",
+      "shipping_address_text": "Sneha Gupta, 321 Park Street, Apt 7A, Kolkata, West Bengal 700016",
+      "payment_method": "Credit Card",
+      "payment_status": "completed",
+      "transaction_id": "CC123456803",
+      "tracking_number": "TRK001234577",
+      "estimated_delivery": "2024-08-30",
+      "created_at": "2024-08-25T14:35:00Z",
+      "updated_at": "2024-08-26T10:20:00Z"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 25,
+    "fields": {
+      "customer": 25,
+      "vendor": 11,
+      "order_id": "550e8400-e29b-41d4-a716-446655440016",
+      "total_amount": "85999.00",
+      "status": "processing",
+      "shipping_address_text": "Kavya Reddy, 987 Banjara Hills, Villa 23, Hyderabad, Telangana 500034",
+      "payment_method": "Debit Card",
+      "payment_status": "completed",
+      "transaction_id": "DC123456804",
+      "tracking_number": "",
+      "estimated_delivery": "2024-09-02",
+      "created_at": "2024-08-26T16:50:00Z",
+      "updated_at": "2024-08-27T09:15:00Z"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 21,
+    "fields": {
+      "order": 11,
+      "product": 16,
+      "variant": 16,
+      "quantity": 1,
+      "price_at_purchase": "75999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 22,
+    "fields": {
+      "order": 12,
+      "product": 18,
+      "variant": 20,
+      "quantity": 1,
+      "price_at_purchase": "133999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 23,
+    "fields": {
+      "order": 13,
+      "product": 19,
+      "variant": 21,
+      "quantity": 1,
+      "price_at_purchase": "85999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 24,
+    "fields": {
+      "order": 14,
+      "product": 20,
+      "variant": 22,
+      "quantity": 1,
+      "price_at_purchase": "25999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 25,
+    "fields": {
+      "order": 15,
+      "product": 22,
+      "variant": 24,
+      "quantity": 1,
+      "price_at_purchase": "35999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 26,
+    "fields": {
+      "order": 15,
+      "product": 23,
+      "variant": 25,
+      "quantity": 1,
+      "price_at_purchase": "18999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 27,
+    "fields": {
+      "order": 16,
+      "product": 24,
+      "variant": 26,
+      "quantity": 1,
+      "price_at_purchase": "65999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 28,
+    "fields": {
+      "order": 17,
+      "product": 26,
+      "variant": 28,
+      "quantity": 1,
+      "price_at_purchase": "8999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 29,
+    "fields": {
+      "order": 18,
+      "product": 27,
+      "variant": 29,
+      "quantity": 1,
+      "price_at_purchase": "95999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 30,
+    "fields": {
+      "order": 19,
+      "product": 33,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "52999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 31,
+    "fields": {
+      "order": 20,
+      "product": 29,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "42999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 32,
+    "fields": {
+      "order": 21,
+      "product": 30,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "45999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 33,
+    "fields": {
+      "order": 22,
+      "product": 31,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "28999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 34,
+    "fields": {
+      "order": 23,
+      "product": 21,
+      "variant": 23,
+      "quantity": 1,
+      "price_at_purchase": "12999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 35,
+    "fields": {
+      "order": 24,
+      "product": 32,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "38999.00"
+    }
+  },
+  {
+    "model": "orders.orderitem",
+    "pk": 36,
+    "fields": {
+      "order": 25,
+      "product": 38,
+      "variant": null,
+      "quantity": 1,
+      "price_at_purchase": "85999.00"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 11,
+    "fields": {
+      "product": 16,
+      "user": 21,
+      "rating": 5,
+      "comment": "Beautiful teak wood bed! The craftsmanship is exceptional and it looks stunning in my bedroom. Highly recommend this vendor.",
+      "is_approved": true,
+      "created_at": "2024-08-21T10:00:00Z",
+      "updated_at": "2024-08-21T10:00:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 12,
+    "fields": {
+      "product": 18,
+      "user": 22,
+      "rating": 5,
+      "comment": "The Chesterfield sofa is absolutely gorgeous! The velvet quality is premium and it's incredibly comfortable. Worth every penny!",
+      "is_approved": true,
+      "created_at": "2024-08-24T14:30:00Z",
+      "updated_at": "2024-08-24T14:30:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 13,
+    "fields": {
+      "product": 20,
+      "user": 24,
+      "rating": 4,
+      "comment": "Great coffee table! The glass top is sturdy and the chrome legs give it a modern look. Perfect for my living room.",
+      "is_approved": true,
+      "created_at": "2024-08-23T16:15:00Z",
+      "updated_at": "2024-08-23T16:15:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 14,
+    "fields": {
+      "product": 22,
+      "user": 25,
+      "rating": 5,
+      "comment": "Love this TV unit! Very minimalist and clean design. The cable management feature is really helpful. Great quality!",
+      "is_approved": true,
+      "created_at": "2024-08-25T12:45:00Z",
+      "updated_at": "2024-08-25T12:45:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 15,
+    "fields": {
+      "product": 26,
+      "user": 27,
+      "rating": 4,
+      "comment": "Beautiful vintage table lamps! They add such a nice ambiance to my bedroom. The fabric shades are well-made.",
+      "is_approved": true,
+      "created_at": "2024-08-26T09:20:00Z",
+      "updated_at": "2024-08-26T09:20:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 16,
+    "fields": {
+      "product": 27,
+      "user": 28,
+      "rating": 5,
+      "comment": "Excellent outdoor dining set! The teak wood is weather-resistant and the craftsmanship is top-notch. Perfect for our patio.",
+      "is_approved": true,
+      "created_at": "2024-08-25T17:30:00Z",
+      "updated_at": "2024-08-25T17:30:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 17,
+    "fields": {
+      "product": 21,
+      "user": 21,
+      "rating": 4,
+      "comment": "Good LED ceiling light with adjustable brightness. Easy to install and the warm white light is perfect for our living room.",
+      "is_approved": true,
+      "created_at": "2024-08-28T11:10:00Z",
+      "updated_at": "2024-08-28T11:10:00Z"
+    }
+  },
+  {
+    "model": "products.productreview",
+    "pk": 18,
+    "fields": {
+      "product": 24,
+      "user": 26,
+      "rating": 5,
+      "comment": "Amazing vintage wardrobe! The carved details are beautiful and there's so much storage space. Quality is outstanding.",
+      "is_approved": false,
+      "created_at": "2024-08-24T15:40:00Z",
+      "updated_at": "2024-08-24T15:40:00Z"
+    }
+  }
+]
