@@ -40,7 +40,7 @@ A full-stack e-commerce platform built with Django REST Framework and React.js, 
 - React Router
 
 ## 🏗️ Project Structure
-
+```
 buyhive/
 ├── buyhive_backend/
 │ ├── apps/
@@ -65,7 +65,7 @@ buyhive/
 │ └── vite.config.js
 ├── README.md
 └── .gitignore
-
+```
 
 ## 🚀 Getting Started
 
