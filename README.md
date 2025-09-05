@@ -108,11 +108,11 @@ npm run dev
 ## 🔑 Environment Variables
 
 Create a `.env` file in the backend directory:
-
+```
 SECRET_KEY=your-secret-key
 DEBUG=True
 DATABASE_URL=sqlite:///db.sqlite3
-
+```
 ## ⭐ Acknowledgments
 
 - Django REST Framework for powerful API development
