@@ -54,13 +54,72 @@ buyhive/
 │ └── requirements.txt
 ├── buyhive_frontend/
 │ ├── src/
-│ │ ├── components/ # Reusable React components
-│ │ ├── pages/ # Page components
-│ │ ├── services/ # API integration
-│ │ ├── context/ # React context providers
-│ │ └── styles/ # CSS and styling
+│ │ ├── components/ 
+│ │ ├── context/  
+│ │ ├── hooks/   
+│ │ ├── pages/  
+│ │ ├── services/   
+│ │ ├── store/  
 │ ├── public/
 │ ├── package.json
 │ └── vite.config.js
 ├── README.md
 └── .gitignore
+
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.8+ installed
+- Node.js 14+ installed  
+- SQLite (comes with Python)
+
+### Backend Setup
+
+1. Navigate to backend directory:
+cd buyhive_backend
+2. Create virtual environment (recommended):
+3. Install dependencies:
+pip install -r requirements.txt
+4. Run database migrations:
+python manage.py makemigrations
+python manage.py migrate
+5. Create superuser (optional):
+python manage.py createsuperuser
+6. Start development server:
+python manage.py runserver
+
+### Frontend Setup
+
+1. Navigate to frontend directory:
+cd buyhive_frontend
+2. Install dependencies:
+npm install
+3. Start development server:
+npm run dev
+
+
+### Access the Application
+
+- **Frontend**: http://localhost:5173
+- **Backend API**: http://localhost:8000/api
+- **Admin Panel**: http://localhost:8000/admin
+
+## 🔑 Environment Variables
+
+Create a `.env` file in the backend directory:
+
+SECRET_KEY=your-secret-key
+DEBUG=True
+DATABASE_URL=sqlite:///db.sqlite3
+
+## ⭐ Acknowledgments
+
+- Django REST Framework for powerful API development
+- React.js community for excellent frontend tools
+- Tailwind CSS for beautiful, responsive design
+- All contributors and supporters of this project
+---
+
+
+**🛒 BuyHive** - Transforming multi-vendor e-commerce with modern technology stack!
