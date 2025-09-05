@@ -41,3 +41,26 @@ A full-stack e-commerce platform built with Django REST Framework and React.js, 
 
 ## 🏗️ Project Structure
 
+buyhive/
+├── buyhive_backend/
+│ ├── apps/
+│ │ ├── accounts/ # User authentication & profiles
+│ │ ├── products/ # Product management
+│ │ ├── orders/ # Cart & order processing
+│ │ ├── vendors/ # Vendor management
+│ │ └── wishlist/ # Wishlist functionality
+│ ├── buyhive/ # Django settings
+│ ├── manage.py
+│ └── requirements.txt
+├── buyhive_frontend/
+│ ├── src/
+│ │ ├── components/ # Reusable React components
+│ │ ├── pages/ # Page components
+│ │ ├── services/ # API integration
+│ │ ├── context/ # React context providers
+│ │ └── styles/ # CSS and styling
+│ ├── public/
+│ ├── package.json
+│ └── vite.config.js
+├── README.md
+└── .gitignore
